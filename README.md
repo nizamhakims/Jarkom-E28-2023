@@ -67,9 +67,9 @@ Buka zip file dan buka txt yang ada untuk mendapatkan netcat untuk menjawab soal
 ### Answer:
 Bisa dilihat bahwa terdapat 60 packet yang berhasil di capture dari file terlampir. <br>
 ![](Dokumentasi/5e.png) <br>
-Port yang digunakan untuk service SMTP adalah port 25. <br>
+Dikutip dari [Modul 1](https://github.com/arsitektur-jaringan-komputer/Modul-Jarkom/tree/master/Modul-1#12-alokasi-port) port yang digunakan untuk service SMTP adalah port 25. <br>
 ![](Dokumentasi/5f.png) <br>
-Dikutip dari https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/ perbedaan private dan public ip address adalah seperti berikut. <br>
+Dikutip dari [geeksforgeeks](https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/)  perbedaan private dan public ip address adalah seperti berikut. <br>
 ![](Dokumentasi/5g.png) <br>
 Sehingga kita bisa mengetahui public ip address dengan mencari ip address yang tidak dalam rentang private ip address seperti berikut. <br>
 ![](Dokumentasi/5h.png) <br>
