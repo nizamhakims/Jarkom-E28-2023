@@ -6,10 +6,17 @@
 ## Lapres Praktikum 1 
 ### 1. User melakukan berbagai aktivitas dengan menggunakan protokol FTP. Salah satunya adalah mengunggah suatu file.
 #### a. Berapakah sequence number (raw) pada packet yang menunjukkan aktivitas tersebut? 
-#### b. Berapakah acknowledge number (raw) pada packet yang menunjukkan aktivitas tersebut? 
+#### b. Berapakah acknowledge number (raw) pada packet yang menunjukkan aktivitas tersebut?
 #### c. Berapakah sequence number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
 #### d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
+### Answer:
+Karena aktivitasnya adalah mengupload maka cari packet dengan kata kunci “STOR”.
 
+Didapatkan sequence number dan acknowledgement number seperti berikut.
+
+Dari packet diatas kita mengetahui nama file yang dikirim adalah “c75-GrabThePisher.zip”, sehingga untuk mencari packet response kita dapat menggunakan  “GrabThePisher” sebagai kata kunci.
+
+Didapatkan sequence number dan acknowledgement number seperti berikut.
 ### 2. Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 
 ### 3. Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
