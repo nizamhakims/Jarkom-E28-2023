@@ -1,6 +1,9 @@
 # Jarkom-Modul-1-E28-2023
-Lapres Praktikum 1 Jarkom 2023
+## Kelompok E28
+- Shafa Nabilah Hanin / 5025211222
+- Nizam Hakim Santoso / 5025211209
 
+## Lapres Praktikum 1 
 ### 1. User melakukan berbagai aktivitas dengan menggunakan protokol FTP. Salah satunya adalah mengunggah suatu file.
 #### a. Berapakah sequence number (raw) pada packet yang menunjukkan aktivitas tersebut? 
 #### b. Berapakah acknowledge number (raw) pada packet yang menunjukkan aktivitas tersebut? 
