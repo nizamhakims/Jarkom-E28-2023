@@ -85,17 +85,29 @@ Ket: Revisi <br>
 ### 7. Berapa jumlah packet yang menuju IP 184.87.193.88?
 ### Answer:
 Gunakan ip address sebagai kata kunci filtering
-
+![](Dokumentasi/7a.png) <br>
+Bisa dilihat bahwa terdapat 6 packet yang menuju ip address tersebut <br>
+![](Dokumentasi/7b.png)
 <br>
 
 ### 8. Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
 ### Answer:
+Filter port = 80 untuk TCP dan UDP kemudian gunakan relasi OR <br>
+![](Dokumentasi/8.png)
 <br>
 
 ### 9. Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
 ### Answer:
+Filter packet yang berasal dari 10.51.40.1 dan packet yang tidak menuju ke 10.39.55.34 kemudian gunakan relasi AND <br>
+![](Dokumentasi/9.png)
 <br>
 
 ### 10. Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 ### Answer:
+Gunakan “Login” sebagai kata kunci pencarian, didapatkan 1 packet dengan protocol telnet <br>
+![](Dokumentasi/10a.png) <br>
+Follow TCP stream untuk melihat username dan password <br>
+![](Dokumentasi/10b.png) <br>
+Dapat dilihat bahwa username adalah dhafin dan password adalah kesayangannyak0k0 <br>
+![](Dokumentasi/10b.png)
 <br>
