@@ -84,6 +84,8 @@ Ket: Revisi <br>
 
 ### 7. Berapa jumlah packet yang menuju IP 184.87.193.88?
 ### Answer:
+Gunakan ip address sebagai kata kunci filtering
+
 <br>
 
 ### 8. Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
