@@ -109,5 +109,5 @@ Gunakan “Login” sebagai kata kunci pencarian, didapatkan 1 packet dengan pro
 Follow TCP stream untuk melihat username dan password <br>
 ![](Dokumentasi/10b.png) <br>
 Dapat dilihat bahwa username adalah dhafin dan password adalah kesayangannyak0k0 <br>
-![](Dokumentasi/10b.png) <br>
+![](Dokumentasi/10c.png) <br>
 <br>
