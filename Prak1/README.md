@@ -11,7 +11,7 @@
 #### d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
 ### Answer:
 Karena aktivitasnya adalah mengupload maka cari packet dengan kata kunci “STOR”. <br>
-![](Dokumentasi/1a.png) <br>
+![](/Dokumentasi/1a.png) <br>
 Didapatkan sequence number dan acknowledgement number seperti berikut. <br>
 ![](Dokumentasi/1b.png) <br>
 Dari packet diatas kita mengetahui nama file yang dikirim adalah “c75-GrabThePisher.zip”, sehingga untuk mencari packet response kita dapat menggunakan  “GrabThePisher” sebagai kata kunci. <br>
